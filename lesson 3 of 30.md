@@ -5,7 +5,7 @@
 * arguable. adj可论证的，有论据的；不确定的，有疑问的
 
 ## quarrel
-1
+
 * v争吵，吵架
 * n口角，争吵，拌嘴；抱怨（或不赞成）的理由
 * qurrelsome  adj爱争吵的，好口角的
