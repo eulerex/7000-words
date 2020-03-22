@@ -5,7 +5,7 @@
 * arguable. adj可论证的，有论据的；不确定的，有疑问的
 
 ## quarrel
-
+1
 * v争吵，吵架
 * n口角，争吵，拌嘴；抱怨（或不赞成）的理由
 * qurrelsome  adj爱争吵的，好口角的
@@ -42,7 +42,7 @@
 
 ## define
 
-* v解释，给……下定义；阐明，规定；限定，界定；使明确 
+* v解释，给……下定义；阐明，规定；限定，界定；使明确
 * definition  n定义，释义；清晰度
 
 ## stipulate
@@ -177,7 +177,7 @@
 
 
 
-## strengthen	
+## strengthen
 
 * v加强，增强，巩固；为……提供更有力的理由
 
@@ -252,7 +252,7 @@
 
 * v成长，发展，壮大；开发，研制；患（病）；出现（问题）；加强，增强；详尽阐述，阐明
 * development   n发展，成长，壮大；形成；开发；研制；进展
-* developer  n开发商；开发者 
+* developer  n开发商；开发者
 * developed  adj .发达的
 
 ## evolve
@@ -458,4 +458,3 @@ adj。单个的，唯一的；独自的；喜欢独处的
 ## description
 
 * n描述
-
