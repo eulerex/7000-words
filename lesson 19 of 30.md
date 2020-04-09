@@ -414,7 +414,7 @@
 ## ingredient
 
 * n成分，原料；要素，因素
-
+11
 ## constituent
 
 * n成分，构成部分，要素；选民
